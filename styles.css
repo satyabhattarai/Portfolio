@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Manrope:wght@200..800&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -339,7 +341,6 @@ a {
 
 .product-title {
   font-size: 1.25rem;
-  font-weight: 700;
   margin-bottom: 0;
   color: #222;
   font-family: "Alegreya", serif;
