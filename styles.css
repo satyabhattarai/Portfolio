@@ -347,8 +347,7 @@ a {
 }
 
 .product-subtitle {
-  font-size: 1rem;
-  font-weight: 500;
+  font-size: 0.95rem;
   color: #4b5563;
   font-family: "Lora", serif;
   margin-bottom: 0.75rem;
@@ -356,8 +355,8 @@ a {
 
 .product-description {
   flex-grow: 1;
-  font-size: 1rem;
-  color: #555;
+  font-size: 0.85rem;
+  color: #858484;
   margin-bottom: 1rem;
   line-height: 1.4;
   font-family: "Lora", serif;
@@ -425,7 +424,7 @@ a {
   font-weight: 700;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  color: #222;
+  color: #555a61;
   font-family: "Alegreya", serif;
   cursor: pointer;
   padding-bottom: 0.5rem; /* to make space for underline */
@@ -449,7 +448,7 @@ a {
 }
 
 .other-work-subtitle {
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 500;
   margin-bottom: 0.5rem;
   color: #4b5563;
@@ -457,8 +456,8 @@ a {
 }
 
 .other-work-description {
-  font-size: 1rem;
-  color: #555;
+  font-size: 0.85rem;
+  color: #858484;
   margin-bottom: 1rem;
   line-height: 1.4;
   font-family: "Lora", serif;
